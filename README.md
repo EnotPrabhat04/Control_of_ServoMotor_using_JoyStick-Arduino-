@@ -5,7 +5,7 @@ It is designed as an interactive system to showcase real-time servo movement bas
 **Components Used:-**
 Arduino Board,Servo Motor(s),Joystick Module (X and Y axis),Push Button,Buzzer,Connecting Wires,Power Supply.
 
-**Working Principle **
+**Working Principle**
 **1.Joystick Control:-** The joystick module consists of two potentiometers to measure movement along the X and Y axes. These values are read using the Arduino's analog pins (A0 for X-axis and A1 for Y-axis).
 
 **2.Servo Control:-** The servo motor angle is calculated based on the joystick's input, ranging from 0 to 180 degrees. The motor moves according to the joystick's horizontal movement.
