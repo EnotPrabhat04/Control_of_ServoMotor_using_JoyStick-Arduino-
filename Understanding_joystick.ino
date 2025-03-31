@@ -56,8 +56,5 @@ void loop() {
   Serial.print(yVal);
   Serial.print("Switch State is ");
   Serial.println(sVal);
-   
-
-
-
+  
 }
