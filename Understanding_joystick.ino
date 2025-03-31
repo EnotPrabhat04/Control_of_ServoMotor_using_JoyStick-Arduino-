@@ -48,7 +48,6 @@ void loop() {
     digitalWrite(buzzPin,LOW);
   }
 
-
   delay(200);
   Serial.print("X value : ");
   Serial.print(xVal);
